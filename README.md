@@ -1,9 +1,10 @@
-３月７日開催テックトーク「QGIS実践①」の資料を格納したリポジトリです。<br>
-
+<h2>３月７日開催テックトーク「QGIS実践①」の資料を格納したリポジトリです</h2>
 
 Reported Israeli Clearing Operation：イスラエル軍作戦エリア
 
 Claimed Furthest Israeli Advance：イスラエル軍侵入の可能性
+
+Israeli Announced Evacuation Zones：退避勧告エリア
 
 geoBoundaries-ISR-ADM0.geojson：イスラエルと中東各国国境
 

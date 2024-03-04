@@ -11,3 +11,7 @@ Palestinian Milita Infiltration：難民キャンプ
 geoBoundaries-ISR-ADM0.geojson：イスラエルと中東各国国境
 
 geoBoundaries-EGY-ADM0.geojson：エジプト国境
+
+CrossingPoints：検問所
+
+（オプション）hotosm_pse_buildings_polygons：建物情報

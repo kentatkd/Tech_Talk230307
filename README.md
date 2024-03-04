@@ -14,4 +14,3 @@ geoBoundaries-EGY-ADM0.geojson：エジプト国境
 
 CrossingPoints：検問所
 
-（オプション）hotosm_pse_buildings_polygons：建物情報
